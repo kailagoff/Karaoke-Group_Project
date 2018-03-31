@@ -8,6 +8,10 @@
 
 _This app helps a user find the right karaoke song based on their mood, vibe and intoxication level. Other capabilities include searching for the lyrics to a song, adding songs to a playlist, and getting inspired for the big moment._
 
+<kbd><img src="img/screenshot.png" alt=""></kbd>
+
+<kbd><img src="img/screenshot1.png" alt=""></kbd
+
 ### Specifications
   1. The user chooses "Questions" or "Random".
 
